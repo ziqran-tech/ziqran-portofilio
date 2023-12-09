@@ -1,7 +1,8 @@
-# Sleep Health Analysis
+# Sleep Health and Lifestyle Analysis
 
 ### Project Overview
 
+The project aims to determine the link between sleep health and people's lifestyles, with indicators including gender, age, occupation, sleep duration, sleep quality, physical activity level, stress level, BMI category, and the presence or absence of sleep disorders.
 
 ### Data Source
 
@@ -25,7 +26,7 @@ Sleap Healt Data : The main data used in this project is the "Sleep Healt Data.c
 
 ### Data Visualization
 
-https://lookerstudio.google.com/reporting/ab6db757-dc90-4739-947f-cf7f289776f1
+Here are the visualization results: https://lookerstudio.google.com/reporting/ab6db757-dc90-4739-947f-cf7f289776f1
 
 ### Insight 
 
